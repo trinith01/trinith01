@@ -15,9 +15,7 @@
 
 ## 🤖 AI-Powered & Innovative Projects  
 
-### 📚 Intelligence Tuition Class Helper App  
-> My **first developed product** 🚀 – A MERN stack platform to manage tuition classes with smart features.  
-**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)  
+
 
 ---
 
