@@ -8,22 +8,21 @@
 ---
 
 ## ⚡ GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinith&show_icons=true&hide=contribs,prs&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trinith&show_icons=true&hide=contribs,prs&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trinith&theme=radical)  
 
 ---
 
 ## 🤖 AI-Powered & Innovative Projects  
 
-
-
----
-
-### 📘 SmartQuizz – Online Assessment Platform  
+### 📘 [SmartQuizz – Online Assessment Platform](#)  
 > AI-powered **smart paper management & analytics** for educational institutes.  
 - Automated paper creation & student performance analytics  
 - Personalized study plans with **AI recommendations**  
-**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+[🔗 Visit Site](https://qgen.edu.lk/)  
 
 ---
 
@@ -31,21 +30,30 @@
 > AI-powered **patient & donor management system** with **doctor recommendations** using MedGemma AI.  
 - Symptom analysis for smart doctor suggestions  
 - Handles patient/donor registration, scheduling, and summaries  
-**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![AI](https://img.shields.io/badge/AI-MedGemma-FF6F00) ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![AI](https://img.shields.io/badge/AI-MedGemma-FF6F00) ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+*Ongoing project – link not available yet*  
 
 ---
 
 ## 💻 Full Stack Projects  
 
-### 🛒 Mebius – E-Commerce Platform  
+### 🛒 [Mebius – E-Commerce Platform](https://fed-storefrontend-frontend-trinith.netlify.app/)  
 > A **full-featured MERN stack e-commerce platform** with **Stripe payments** & Clerk authentication.  
-**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  
+
+[🔗 Visit Site](https://fed-storefrontend-frontend-trinith.netlify.app/)  
 
 ---
 
-### 💞 MatriManda – Matrimony & Dating Platform (Client Project)  
+### 💞 [MatriManda – Matrimony & Dating Platform (Client Project)](https://matrimony-frontend.netlify.app/)  
 > Real-time matrimony & dating app with **chat, horoscope matching, and admin verification**.  
-**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+[🔗 Visit Site](https://matrimony-frontend.netlify.app/)  
 
 ---
 
