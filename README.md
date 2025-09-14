@@ -81,6 +81,7 @@ This project utilizes the **Random Forest** algorithm to predict laptop prices b
 ```bash
 git clone https://github.com/trinith01/laptop-_price_prdictor.git
 cd laptop-_price_prdictor
+```
 
 
 ## 💻 Full Stack Projects  
