@@ -15,7 +15,25 @@
 
 ## 🤖 AI-Powered & Innovative Projects  
 
-### 📘 [SmartQuizz – Online Assessment Platform](#)  
+### 🏨 [RAG-Based Hotel Management System](https://github.com/trinith01/adfe-trinith-frontend)  
+> A **Generative AI-powered hotel search platform** that allows users to find hotels using **natural language queries** based on their preferences.  
+- Uses **RAG (Retrieval-Augmented Generation)** for contextual hotel search  
+- Vector database for **semantic similarity search**  
+- Full stack implementation with **frontend + backend** repos  
+**Tech Stack:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express.js-404D59?logo=express) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) 
+![VectorDB](https://img.shields.io/badge/Vector_DB-FF6F00)  
+
+[🔗 Frontend Repo](https://github.com/trinith01/adfe-trinith-frontend) | [🔗 Backend Repo](https://github.com/trinith01/adfe-trinith-backend)  
+
+
+### 📘 [SmartQuizz – Online Assessment Platform-(A Live Product)](#)  
 > AI-powered **smart paper management & analytics** for educational institutes.  
 - Automated paper creation & student performance analytics  
 - Personalized study plans with **AI recommendations**  
