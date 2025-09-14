@@ -108,7 +108,7 @@
 ## 📫 Contact Me  
 [![GitHub](https://img.shields.io/badge/GitHub-trinith-181717?logo=github)](https://github.com/trinith)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TrinithVihanga-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trinith-vihanga-689b86297)  
-📧 **Email:** g202054194@gmail.com  
+📧 **Email:** gt202054194@gmail.com  
 
 ---
 ✨ *"Building scalable, intelligent, and impactful software products."*  
