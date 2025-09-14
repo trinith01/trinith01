@@ -54,34 +54,19 @@
 *Ongoing project – link not available yet*  
 
 ---
-# Machine Learning Projects
+## 🤖 Machine Learning Projects  
 
-Explore a collection of machine learning projects that demonstrate various predictive modeling techniques.
+### 💻 [Laptop Price Predictor](https://github.com/trinith01/laptop-_price_prdictor)  
+> Predict laptop prices using **Random Forest Regression** based on specs like brand, RAM, storage, processor & screen size.  
+- Data preprocessing & feature engineering  
+- Model evaluation using R² score and MAE  
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
 
-## 💻 Laptop Price Predictor
+[🔗 Repository](https://github.com/trinith01/laptop-_price_prdictor)
 
-This project utilizes the **Random Forest** algorithm to predict laptop prices based on specifications such as brand, processor, RAM, storage, and screen size.
 
-### Features
 
-- **Data Preprocessing**: Extensive cleaning and feature engineering to prepare the dataset.
-- **Modeling**: Implementation of the Random Forest algorithm for regression tasks.
-- **Evaluation**: Assessment of model performance using metrics like R² score and Mean Absolute Error (MAE).
-
-### Repository Contents
-
-- `LaptopPricePredictor.ipynb` - Jupyter Notebook containing the complete workflow from data loading to model evaluation.
-- `laptop_data.csv` - Dataset used for training the model.
-- `model.pkl` - Serialized Random Forest model for deployment.
-
-### Installation & Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/trinith01/laptop-_price_prdictor.git
-cd laptop-_price_prdictor
-```
 
 
 ## 💻 Full Stack Projects  
